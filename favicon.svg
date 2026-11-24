@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<title>DotYou.Me arcade</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#342266"/><stop offset="1" stop-color="#0b1028"/></linearGradient></defs>
+<rect width="64" height="64" rx="14" fill="url(#bg)"/>
+<rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#8088dc" stroke-opacity=".5" stroke-width="2"/>
+<text x="9" y="47" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="48" letter-spacing="-4">d</text>
+<circle cx="47" cy="42" r="9" fill="#31d9ff"/>
+<circle cx="46" cy="19" r="5" fill="#ff3caf"/>
+<circle cx="56" cy="28" r="4" fill="#d0ff46"/>
+<circle cx="34" cy="11" r="3.5" fill="#ffc94c"/>
+</svg>
